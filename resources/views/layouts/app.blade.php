@@ -79,10 +79,6 @@
             OF ACTUAL PRODUCTS ON THE MARKET IN A SIMILAR PRODUCT CATEGORY.
         </footer>   
     </div>
-                        
-
-        <main class="py-4">
-            @yield('content')
 
 </body>
 </html>
